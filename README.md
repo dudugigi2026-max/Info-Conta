@@ -3,8 +3,10 @@
 
 <hr />
 
+<div align="center'>
 <h2>Este GitHub é da dupla Eduardo e Giovanni, nele postamos nossas atividades do curso técnico!</h2>
-
+</div>
+  
 <div align="center">
 
 <hr />
