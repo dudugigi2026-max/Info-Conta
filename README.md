@@ -23,14 +23,10 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/Koehler2011">
-        <h3>Eduardo</h3>
-      </a>
+      <a href="https://github.com/Koehler2011">Eduardo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/GiovanniRovesta">
-        <h3>Giovanni</h3>
-      </a>
+      <a href="https://github.com/GiovanniRovesta">Giovanni</a>
     </td>
   </tr>
 </table>
