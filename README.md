@@ -4,7 +4,11 @@
 <hr />
 
 <div align="center'>
-<p><h2>Este GitHub é da dupla Eduardo e Giovanni, nele postamos nossas atividades do curso técnico!</p></h2>
+<p>
+  <h2>
+    Este GitHub é da dupla Eduardo e Giovanni, nele postamos nossas atividades do curso técnico!
+  </h2>
+</p>
 </div>
   
 <div align="center">
