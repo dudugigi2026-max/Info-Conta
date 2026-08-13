@@ -7,10 +7,10 @@
 
   <h2>👋 Olá!</h2>
 
-  <p>
+  <h3>
     Este GitHub é da dupla <strong>Eduardo e Giovanni</strong>.<br>
     Nele postamos nossas atividades do curso técnico! 💻
-  </p>
+  </h3>
 
 </div>
   
