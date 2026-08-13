@@ -1,8 +1,5 @@
 
-
 <p align="center"> <img src="./dudugigi.png" width="100%" alt="DUDUGIGI" /> </p>
-
-<h1 align="center"> 💳 Emblemas/Certificados</h1>
 
 <div align="center">
 
