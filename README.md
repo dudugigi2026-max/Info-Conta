@@ -1,6 +1,10 @@
 
 <p align="center"> <img src="./dudugigi.png" width="100%" alt="DUDUGIGI" /> </p>
 
+<hr />
+
+<h2>Este GitHub é da dupla Eduardo e Giovanni, nele postamos nossas atividades do curso técnico!</h2>
+
 <div align="center">
 
 <hr />
