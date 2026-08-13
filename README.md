@@ -27,13 +27,13 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/dudugigi2026-max">
-        <h3>Dupla</h3>
+      <a href="https://github.com/Koehler2011">
+        <h3>Eduardo</h3>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/EduDaviJoaoGigi">
-        <h3>Quarteto</h3>
+      <a href="https://github.com/github.com/GiovanniRovesta">
+        <h3>Giovanni</h3>
       </a>
     </td>
   </tr>
